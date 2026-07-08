@@ -1,0 +1,10 @@
+click
+markdown2
+Jinja2
+Pygments
+weasyprint
+py-slugify
+text-unidecode
+PyYAML
+rich
+watchdog
