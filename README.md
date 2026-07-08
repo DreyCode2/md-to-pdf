@@ -13,7 +13,7 @@ instead. One script, pip install the deps, done.
 pip install -r requirements.txt
 ```
 
-You need Python 3.10+.
+You need Python 3.6+.
 
 ## Usage
 
