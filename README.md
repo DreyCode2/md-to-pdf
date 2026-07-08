@@ -1,4 +1,4 @@
-# mdforge
+# mdcreate
 
 Converts Markdown files to PDF. That's it.
 
